@@ -1,5 +1,5 @@
 [Midnight-Commander]
-skin=~/.config/mc/skins/electricblue
+skin=electricblue
 verbose=true
 shell_patterns=true
 auto_save_setup=true
